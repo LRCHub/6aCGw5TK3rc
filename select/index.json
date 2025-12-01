@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "整個世界因為你而停擺",
+  "base_artist": "Mikeyyy Jen、Xinz",
+  "createdAt": "2025-12-01T05:00:53.704147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "整個世界因為你而停擺",
+      "artist": "Mikeyyy Jen",
+      "has_synced": true,
+      "path": "select/01_整個世界因為你而停擺_Mikeyyy_Jen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "整個世界因為你而停擺 (Paused)",
+      "artist": "Mikeyyy Jen",
+      "has_synced": true,
+      "path": "select/02_整個世界因為你而停擺_(Paused)_Mikeyyy_Jen.lrc"
+    }
+  ]
+}
